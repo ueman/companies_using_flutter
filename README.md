@@ -2,6 +2,10 @@
 
 If you want to add a company, feel free to create a PR and add it.
 
+See also:
+- https://verygood.ventures/blog/top-companies-using-flutter
+- https://flutter.dev/showcase
+
 | Name             | Description                            | Link                                                         | Country         |
 |------------------|----------------------------------------|--------------------------------------------------------------|-----------------|
 | MediaMarktSaturn | Largest electronics retailer in Europe | https://mediamarktsaturn.com/                                | Germany, Spain  |
