@@ -3,6 +3,7 @@
 If you want to add a company, feel free to create a PR and add it.
 
 See also:
+
 - https://verygood.ventures/blog/top-companies-using-flutter
 - https://flutter.dev/showcase
 
@@ -27,9 +28,9 @@ See also:
 | Tapped           | Mobile Development Agency                  | https://www.tapped.dev/jobs/                                                        | Germany                                                                           |
 | Visible          | Activity tracker for Long-Covid and ME/CFS | https://www.makevisible.com/                                                        | United States, United Kingdom                                                     |
 | Wolt             | Delivery platform for food and merchandise | [Wolt](https://careers.wolt.com/en/blog/tech/scaling-our-merchant-app-with-flutter) | Germany, Finland, Sweden, Denmark, Estonia, Israel                                |
-| ShaqExpress      | Courier and Lifestyle Services             | https://shaqexpress.com/careers                                                     | Ghana 
+| ShaqExpress      | Courier and Lifestyle Services             | https://shaqexpress.com/careers                                                     | Ghana                                                                             |
 | CRED             | Indian Banking and Payments Company        | https://careers.cred.club/                                                          | India                                                                             |
-
+| Arkitek R&D      | Software Company                           | https://arkitek.net/en/                                                             | Turkey                                                                            |
 
 ## Contributors
 
