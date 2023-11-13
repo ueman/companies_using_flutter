@@ -27,7 +27,7 @@ See also:
 | Tapped           | Mobile Development Agency                  | https://www.tapped.dev/jobs/                                                        | Germany                                                                           |
 | Visible          | Activity tracker for Long-Covid and ME/CFS | https://www.makevisible.com/                                                        | United States, United Kingdom                                                     |
 | Wolt             | Delivery platform for food and merchandise | [Wolt](https://careers.wolt.com/en/blog/tech/scaling-our-merchant-app-with-flutter) | Germany, Finland, Sweden, Denmark, Estonia, Israel                                |
-
+| Arkitek R&D      | Software Development Company. Arkitek-Omega: A low-code platform, a Dynamic Form Builder with Flutter. Arkitek-QBank: a Question Bank solution with an Author Platform and Mobile App. Integrated with multiple payment methods like PayTR, Apple-Pay, G-Pay. Arkitek-CROMS: A Business Management System designed for Clinical Research Companies and Operations. Arkitek-DORS combines Task Management and Product Distribution, integrating geofencing technologies and adopting an offline-first approach.| https://arkitek.net/en/ | Turkey
 
 ## Contributors
 
