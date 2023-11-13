@@ -21,6 +21,7 @@ See also:
 | Skandia          | A bank and insurance company               | https://www.skandia.se/om-oss/jobba-hos-oss/                                        | Sweden                                             |
 | Lotum            | Games                                      | https://lotum.com/de/jobs                                                           | Germany                                            |
 | Tapped           | Mobile Development Agency                  | https://www.tapped.dev/jobs/                                                        | Germany                                            |
+| Visible          | Activity tracker for Long-Covid and ME/CFS | https://www.makevisible.com/                                                        | United States, United Kingdom                      |
 | Wolt             | Delivery platform for food and merchandise | [Wolt](https://careers.wolt.com/en/blog/tech/scaling-our-merchant-app-with-flutter) | Germany, Finland, Sweden, Denmark, Estonia, Israel |
 
 
