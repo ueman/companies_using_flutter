@@ -18,3 +18,10 @@ See also:
 | Superlist        |                                            | https://www.superlist.com/careers                                                   | Germany                                            |
 | Lotum            | Games                                      | https://lotum.com/de/jobs                                                           | Germany                                            |
 | Wolt             | Delivery platform for food and merchandise | [Wolt](https://careers.wolt.com/en/blog/tech/scaling-our-merchant-app-with-flutter) | Germany, Finland, Sweden, Denmark, Estonia, Israel |
+
+
+## Contributors
+
+<a href="https://github.com/ueman/companies_using_flutter/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=ueman/companies_using_flutter" />
+</a>
