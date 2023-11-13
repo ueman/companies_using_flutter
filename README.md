@@ -23,6 +23,9 @@ See also:
 | Tapped           | Mobile Development Agency                  | https://www.tapped.dev/jobs/                                                        | Germany                                            |
 | Visible          | Activity tracker for Long-Covid and ME/CFS | https://www.makevisible.com/                                                        | United States, United Kingdom                      |
 | Wolt             | Delivery platform for food and merchandise | [Wolt](https://careers.wolt.com/en/blog/tech/scaling-our-merchant-app-with-flutter) | Germany, Finland, Sweden, Denmark, Estonia, Israel |
+| SNCF Connect     | Trains & Trajets                           | https://www.sncf-connect.com/                                                       | France                                             |
+| HerFIT           | Female Fitness                             | https://herfit.app/                                                                 | Taiwan                                             |
+| Grab             | Food Delivery                              | https://www.grab.com/sg/                                                            | Singapore, Malaysia, Indonesia, Thailand, Vietnam, Philippines, Cambodia, Myanmar |
 
 
 ## Contributors
