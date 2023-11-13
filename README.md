@@ -26,6 +26,7 @@ See also:
 | SNCF Connect     | Trains & Trajets                           | https://www.sncf-connect.com/                                                       | France                                             |
 | HerFIT           | Female Fitness                             | https://herfit.app/                                                                 | Taiwan                                             |
 | Grab             | Food Delivery                              | https://www.grab.com/sg/                                                            | Singapore, Malaysia, Indonesia, Thailand, Vietnam, Philippines, Cambodia, Myanmar |
+| Cloudwalk        | A global payments network                  | https://cloudwalk.io/jobs                                                           | Brazil                                             |
 
 
 ## Contributors
