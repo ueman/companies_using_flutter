@@ -27,7 +27,7 @@ See also:
 | Tapped           | Mobile Development Agency                  | https://www.tapped.dev/jobs/                                                        | Germany                                                                           |
 | Visible          | Activity tracker for Long-Covid and ME/CFS | https://www.makevisible.com/                                                        | United States, United Kingdom                                                     |
 | Wolt             | Delivery platform for food and merchandise | [Wolt](https://careers.wolt.com/en/blog/tech/scaling-our-merchant-app-with-flutter) | Germany, Finland, Sweden, Denmark, Estonia, Israel                                |
-
+| ShaqExpress      | Courier and Lifestyle Services             | https://shaqexpress.com/careers                                                     | Ghana 
 
 ## Contributors
 
