@@ -30,6 +30,7 @@ See also:
 | Wolt             | Delivery platform for food and merchandise | [Wolt](https://careers.wolt.com/en/blog/tech/scaling-our-merchant-app-with-flutter) | Germany, Finland, Sweden, Denmark, Estonia, Israel                                |
 | ShaqExpress      | Courier and Lifestyle Services             | https://shaqexpress.com/careers                                                     | Ghana                                                                             |
 | CRED             | Indian Banking and Payments Company        | https://careers.cred.club/                                                          | India                                                                             |
+| Arkitek R&D      | Software Company                           | https://arkitek.net/en/                                                             | Turkey                                                                            |
 
 ## Contributors
 
