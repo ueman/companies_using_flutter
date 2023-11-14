@@ -33,6 +33,9 @@ See also:
 | Tapped           | Mobile Development Agency                  | https://www.tapped.dev/jobs/                                                        | Germany                                                                           |
 | Visible          | Activity tracker for Long-Covid and ME/CFS | https://www.makevisible.com/                                                        | United States, United Kingdom                                                     |
 | Wolt             | Delivery platform for food and merchandise | [Wolt](https://careers.wolt.com/en/blog/tech/scaling-our-merchant-app-with-flutter) | Germany, Finland, Sweden, Denmark, Estonia, Israel                                |
+| Mews             | Hospitality | https://www.mews.com/ | UK, Spain, Czech Republic, Germany, Croatia, Netherlands                                |
+| Coniq             | Customer Engagement Platform | https://www.coniq.com/ | UK, Spain                                |
+| ContentSquare             | Analytics SDK | https://contentsquare.com/ | UK, Spain, France                                |
 
 ## Contributors
 
