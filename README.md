@@ -1,6 +1,6 @@
 # List of companies using Flutter
 
-If you want to add a company, feel free to create a PR and add it.
+If you want to add a company, feel encouraged to create a PR which adds the company.
 
 See also:
 
