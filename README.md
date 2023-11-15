@@ -37,7 +37,8 @@ See also:
 | Coniq            | Customer Engagement Platform                     | https://www.coniq.com/                                                              | UK, Spain                                                                         |
 | ContentSquare    | Analytics SDK                                    | https://contentsquare.com/                                                          | UK, Spain, France                                                                 |
 | Billo            | User-generated content marketplace (creator app) | https://billo.app/                                                                  | United States, Lithuania                                                          |
-| Uberall          | Digital Location Marketing Solution              | https://uberall.com/en-us/company/careers                                           | Worldwide                                          
+| Uberall          | Digital Location Marketing Solution              | https://uberall.com/en-us/company/careers                                           | Worldwide 
+| Sport Alliance   | Fitness and Gym management                       | https://www.sportalliance.com/en/                                                   | Europe 
 
 
 ## Contributors
