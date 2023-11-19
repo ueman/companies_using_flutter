@@ -41,6 +41,7 @@ See also:
 | Visible          | Activity tracker for Long-Covid and ME/CFS       | https://www.makevisible.com/                                                        | United States, United Kingdom                                                     |
 | WheelKeep        | The invisible bicycle security system            | https://www.wheelkeep.bike/                                                         | Netherlands, Ukraine                                                              |
 | Wolt             | Delivery platform for food and merchandise       | [Wolt](https://careers.wolt.com/en/blog/tech/scaling-our-merchant-app-with-flutter) | Germany, Finland, Sweden, Denmark, Estonia, Israel                                |
+| ZUP              | Software development               | https://www.zup.com.br/                                                                           | Brazil, US                                |
 
 
 ## Contributors
