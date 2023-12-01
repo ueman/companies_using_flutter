@@ -31,19 +31,19 @@ See also:
 | NXT:FWD          | White label solution for telecom operators       | [NXT:FWD](https://www.nxtfwd.com/)                                                  |                                                                                   |
 | NetGlade         | Flutter Consultancy                              | https://netglade.com/en                                                             | Czechia                                                                           |
 | Nubank           | Largest Fintech in Latin America                 | https://international.nubank.com.br/careers/                                        | Brazil, Germany, Mexico, Colombia                                                 |
-| Oschadbank        | Mobile banking of Ukrainian state bank          | https://www.oschadbank.ua/mob-oschad                                                | Ukraine                                                                           |
+| Oschadbank       | Mobile banking of Ukrainian state bank           | https://www.oschadbank.ua/mob-oschad                                                | Ukraine                                                                           |
 | SNCF Connect     | Trains & Trajets                                 | https://www.sncf-connect.com/                                                       | France                                                                            |
 | ShaqExpress      | Courier and Lifestyle Services                   | https://shaqexpress.com/careers                                                     | Ghana                                                                             |
 | Skandia          | A bank and insurance company                     | https://www.skandia.se/om-oss/jobba-hos-oss/                                        | Sweden                                                                            |
 | Sport Alliance   | Fitness and Gym management                       | https://www.sportalliance.com/en/                                                   | Europe                                                                            |
 | Superlist        |                                                  | https://www.superlist.com/careers                                                   | Germany                                                                           |
 | Tapped           | Mobile Development Agency                        | https://www.tapped.dev/jobs/                                                        | Germany                                                                           |
+| Thule            | Outdoor and transportation products              | https://www.thulegroup.com/en/career                                                | Worldwide                                                                         |
 | Uberall          | Digital Location Marketing Solution              | https://uberall.com/en-us/company/careers                                           | Worldwide                                                                         |
 | Visible          | Activity tracker for Long-Covid and ME/CFS       | https://www.makevisible.com/                                                        | United States, United Kingdom                                                     |
 | WheelKeep        | The invisible bicycle security system            | https://www.wheelkeep.bike/                                                         | Netherlands, Ukraine                                                              |
 | Wolt             | Delivery platform for food and merchandise       | [Wolt](https://careers.wolt.com/en/blog/tech/scaling-our-merchant-app-with-flutter) | Germany, Finland, Sweden, Denmark, Estonia, Israel                                |
-| ZUP              | Software development               | https://www.zup.com.br/                                                                           | Brazil, US                                |
-
+| ZUP              | Software development                             | https://www.zup.com.br/                                                             | Brazil, US                                                                        |
 
 ## Contributors
 
